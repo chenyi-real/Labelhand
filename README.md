@@ -16,3 +16,7 @@
 
 修改 mainwindow.cpp文件中的 writeJsonFile() 和 readJsonFile()俩个函数即可。
 
+## 著作者
+
+方玉杰(在读研究生)
+隶属于杭州电子科技大学
